@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "email": "juan.perez@example.com",
+      "telefono": "555-123-4567"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria",
+      "apellido": "Garcia",
+      "email": "maria.garcia@example.com",
+      "telefono": "555-234-5678"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "apellido": "Lopez",
+      "email": "pedro.lopez@example.com",
+      "telefono": "555-345-6789"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellido": "Torres",
+      "email": "ana.torres@example.com",
+      "telefono": "555-456-7890"
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "apellido": "Rodriguez",
+      "email": "luis.rodriguez@example.com",
+      "telefono": "555-567-8901"
+    },
+    {
+      "id": 6,
+      "nombre": "Sofia",
+      "apellido": "Martinez",
+      "email": "sofia.martinez@example.com",
+      "telefono": "555-678-9012"
+    }
+  ]
+}
